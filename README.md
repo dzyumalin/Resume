@@ -26,3 +26,28 @@
 <td>HTML, CSS, jQuery</td>
 <td align="center">Верстка</td>
 </tr>
+<tr>
+<td><a href="https://github.com/safe2k19/SWA2/tree/test">SmartWorldAcademy test2</a></td>
+<td>HTML, CSS, JavaScript</td>
+<td align="center">JavaScript</td>
+</tr>
+<tr>
+<td><a href="https://safe2k19.github.io/PULSE/dist/">Pulse landing page</a></td>
+<td>HTML, CSS, jQuery</td>
+<td align="center">Верстка</td>
+</tr>
+<tr>
+<td><a href="https://github.com/safe2k19/Food">Food app</a></td>
+<td>HTML, CSS, JavaScript</td>
+<td align="center">Верстка, JavaScript</td>
+</tr>
+<tr>
+<td><a href="https://safe2k19.github.io/budgetApp/">Budget app</a></td>
+<td>HTML, CSS, JavaScript</td>
+<td align="center">JavaScript</td>
+</tr>
+<tr>
+<td><a href="https://github.com/safe2k19/promotionTimer">Timer</a></td>
+<td>HTML, CSS, JavaScript</td>
+<td align="center">JavaScript</td>
+</tr>
