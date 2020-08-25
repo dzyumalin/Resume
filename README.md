@@ -33,7 +33,7 @@
 </tr>
 <tr>
 <td><a href="https://safe2k19.github.io/PULSE/dist/">Pulse landing page</a></td>
-<td>HTML, CSS, jQuery</td>
+<td>HTML, CSS, jQuery, Gulp</td>
 <td align="center">Верстка</td>
 </tr>
 <tr>
