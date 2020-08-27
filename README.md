@@ -1,4 +1,4 @@
-# Зюмалин Дмитрий &middot; [![](https://img.shields.io/badge/resume-hh-red)](https://tomsk.hh.ru/resume/4dc79d8cff03ee65ff0039ed1f766d68797934)  [![](https://img.shields.io/badge/-telegram-0088cc)](https://tele.click/dmitryhli) 
+# Зюмалин Дмитрий &middot; [![](https://img.shields.io/badge/resume-hh-red)](https://tomsk.hh.ru/resume/4dc79d8cff03ee65ff0039ed1f766d68797934)  [![](https://img.shields.io/badge/-telegram-0088cc)](https://t.me/dmitryhli) 
 
   ### Стек технологий(актуальность на 2020 год):
   - JavaScript(ES6), jQuery, Vue
